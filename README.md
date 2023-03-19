@@ -1,6 +1,7 @@
 # Analise_Cristal
 
 > O objetivo do projeto é utilizar a biblioteca Pandas do python e o PowerQuery como ferramentas de ETL para tratar um arquivo de dados semi-hipotéticos representando as leituras de um sensor sobre o tamanho do objetos (cristais) em função do tempo.
+Os resultados pós tratamento estão disponibilizados no Power BI
 
 ## Tecnologias
 
